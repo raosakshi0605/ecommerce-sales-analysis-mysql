@@ -75,10 +75,6 @@ Make sure the schema and sample data scripts are executed before running the ana
 
 The dataset is synthetic and was created for learning and portfolio purposes. It does not represent real customers or actual business transactions.
 
-## Key Findings
-
-This section will summarise the results obtained from running the SQL queries, including the highest-revenue category, top-selling products, and leading customer or city by completed sales.
-
 ## What's Next?
 
 I plan to continue practising SQL and work on more data analysis projects to strengthen my problem-solving skills.
